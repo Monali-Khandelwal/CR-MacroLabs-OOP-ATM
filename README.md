@@ -1,6 +1,11 @@
 # project-2-Menu
 Week 2 project: Menu Simulator
 
+# Contributors
+•	Monali Khandelwal (@Monali-Khandelwal) 
+•	Theresa Mashura
+•	Kelly Porter
+
 ## Menu Requirements
 
 Every feature must have corresponding unit tests
